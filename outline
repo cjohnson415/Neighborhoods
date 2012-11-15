@@ -1,0 +1,51 @@
+Normalize data
+- [0,1]
+- median
+
+PCA - for visualization (or even for clustering)
+- visualized the data via PCA in two dimensions
+
+Exploring Feature-space
+- more features?
+- weighting them differently
+- categories
+- price
+
+Statistical Evaluation of the features themselves
+- which help differentiate
+- whcih don't seem to.
+
+
+Understanding/Analyzing the performance of our current results
+- show that there's no meaningful trend over the number of clusters?
+- total sumd vs. k
+
+
+try other algorithms
+- k nearest neighbors
+
+
+
+
+Outline of Paper/Milestone:
+
+
+Got data from 3taps
+- highlight features used
+
+What did we do with data?
+- performed initial kmeans clustering on metadata
+  - normalize
+  - PCA
+- compare with initial other algorithm??? clustering
+
+Qualitative Analysis of results
+- not that great
+- doesn't appear to be convergence => vectors are not naturally clustered (separately)
+
+Statistical Analysis on results?
+- can we plot total sumd vs. k
+
+Future work
+- explore feature space
+
