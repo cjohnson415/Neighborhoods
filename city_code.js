@@ -18,9 +18,9 @@ function getCodes() {
         if (!(cityCodes[loc.cityCode])) {
           cityCodes[loc.cityCode] = {};
           cityCodes[loc.cityCode].numPosts = 1;
-          cityCodes[loc.cityCode].titleLength = post.heading.length;
-          cityCodes[loc.cityCode].bodyLength = post.body.length;
-          cityCodes[loc.cityCode].numImages = post.images.length;
+          cityCodes[loc.cityCode].titleLength = post.heading.length || 0;
+          cityCodes[loc.cityCode].bodyLength = post.body.length || 0;
+          cityCodes[loc.cityCode].numImages = post.images.lengthi || 0;
           uniques++;
         } else {
           cityCodes[loc.cityCode].numPosts++;
