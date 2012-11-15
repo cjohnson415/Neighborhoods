@@ -1,0 +1,24 @@
+<GetCategoryTopTitles>
+  <Version>integer</Version>
+  <CategoryQuery>
+    <Currency>currency</Currency>
+    <SiteID>integer</SiteID>
+    <Categories>
+      <CategoryID>integer</CategoryID>
+    </Categories>
+    <Dates>
+      <StartDate>date</StartDate>
+      <EndDate>date</EndDate>
+      <DateRange>date range</DateRange>
+                                                      <Date>date</Date>
+                                                          </Dates>
+                                                              <Page>
+                                                                    <Order>string</Order>
+                                                                          <OrderDir>string</OrderDir>
+                                                                                <Offset>integer</Offset>
+                                                                                      <Limit>integer</Limit>
+                                                                                            <NumPages>integer</NumPages>
+                                                                                                </Page>
+                                                                                                    <OnlySuccessful>boolean</OnlySuccessful>
+                                                                                                      </CategoryQuery>
+                                                                                                      </GetCategoryTopTitles>
