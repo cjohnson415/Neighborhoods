@@ -7,7 +7,7 @@
       "numPosts": 127,
       "titleLength": 33.023622047244096,
       "bodyLength": 526.2519685039371,
-      "numImages": 2.2283464566929134
+      "numImages": 2.204724409448819
     },
     "USA-DET-FLI": {
       "numPosts": 46,
@@ -25,13 +25,13 @@
       "numPosts": 49,
       "titleLength": 39.10204081632653,
       "bodyLength": 931.5510204081633,
-      "numImages": 1.530612244897959
+      "numImages": 1.3877551020408163
     },
     "USA-BRI-BAC": {
       "numPosts": 13,
       "titleLength": 34.23076923076923,
       "bodyLength": 752.9230769230769,
-      "numImages": 0.7692307692307693
+      "numImages": 0.6923076923076923
     },
     "USA-CHS-CHA": {
       "numPosts": 36,
@@ -43,7 +43,7 @@
       "numPosts": 2,
       "titleLength": 61.5,
       "bodyLength": 1314,
-      "numImages": 5
+      "numImages": 2
     },
     "USA-LIN-LIN": {
       "numPosts": 48,
@@ -55,31 +55,31 @@
       "numPosts": 38,
       "titleLength": 28.710526315789473,
       "bodyLength": 491.7105263157895,
-      "numImages": 3.1842105263157894
+      "numImages": 3.1578947368421053
     },
     "USA-WAS-ANM": {
       "numPosts": 35,
       "titleLength": 35.31428571428572,
       "bodyLength": 601.9428571428572,
-      "numImages": 2.4
+      "numImages": 2.3142857142857145
     },
     "USA-ELP-ELP": {
       "numPosts": 71,
       "titleLength": 29.197183098591548,
       "bodyLength": 366.0422535211268,
-      "numImages": 2.267605633802817
+      "numImages": 2.211267605633803
     },
     "USA-NYM-NWV": {
       "numPosts": 100,
       "titleLength": 32.24,
       "bodyLength": 721.55,
-      "numImages": 2.33
+      "numImages": 2.3
     },
     "USA-ABU-ALB": {
       "numPosts": 161,
       "titleLength": 32.36645962732919,
       "bodyLength": 576.1304347826087,
-      "numImages": 2.080745341614907
+      "numImages": 2.0745341614906834
     },
     "USA-LNS-LAN": {
       "numPosts": 43,
@@ -91,13 +91,13 @@
       "numPosts": 40,
       "titleLength": 32.275,
       "bodyLength": 674,
-      "numImages": 2.575
+      "numImages": 2.55
     },
     "USA-DET-BRI": {
       "numPosts": 1,
       "titleLength": 54,
       "bodyLength": 970,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-HAP-HAR": {
       "numPosts": 64,
@@ -121,7 +121,7 @@
       "numPosts": 46,
       "titleLength": 31.065217391304348,
       "bodyLength": 592.8695652173913,
-      "numImages": 1.2391304347826086
+      "numImages": 1.2173913043478262
     },
     "USA-CLS-COL": {
       "numPosts": 62,
@@ -151,7 +151,7 @@
       "numPosts": 1,
       "titleLength": 64,
       "bodyLength": 1823,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-BIN-END": {
       "numPosts": 71,
@@ -175,7 +175,7 @@
       "numPosts": 104,
       "titleLength": 33.93269230769231,
       "bodyLength": 779.3076923076923,
-      "numImages": 2.519230769230769
+      "numImages": 2.5
     },
     "USA-CLE-AKR": {
       "numPosts": 121,
@@ -199,7 +199,7 @@
       "numPosts": 65,
       "titleLength": 25.753846153846155,
       "bodyLength": 475.81538461538463,
-      "numImages": 1.8615384615384616
+      "numImages": 1.8461538461538463
     },
     "USA-WAS-BAT": {
       "numPosts": 72,
@@ -217,13 +217,13 @@
       "numPosts": 26,
       "titleLength": 24.96153846153846,
       "bodyLength": 445.65384615384613,
-      "numImages": 2.4615384615384617
+      "numImages": 2.423076923076923
     },
     "USA-COP-COR": {
       "numPosts": 57,
       "titleLength": 32.78947368421053,
       "bodyLength": 578.8421052631579,
-      "numImages": 1.7017543859649122
+      "numImages": 1.631578947368421
     },
     "USA-LUB-LUB": {
       "numPosts": 51,
@@ -235,13 +235,13 @@
       "numPosts": 103,
       "titleLength": 35.89320388349515,
       "bodyLength": 518.0873786407767,
-      "numImages": 1.8446601941747574
+      "numImages": 1.8349514563106797
     },
     "USA-LAX-SNP": {
       "numPosts": 87,
       "titleLength": 32.724137931034484,
       "bodyLength": 676,
-      "numImages": 2.6666666666666665
+      "numImages": 2.6551724137931036
     },
     "USA-SYR-SYR": {
       "numPosts": 70,
@@ -259,19 +259,19 @@
       "numPosts": 10,
       "titleLength": 28,
       "bodyLength": 290.5,
-      "numImages": 2.9
+      "numImages": 2.8
     },
     "USA-BAS-MAS": {
       "numPosts": 17,
       "titleLength": 29.176470588235293,
       "bodyLength": 479.47058823529414,
-      "numImages": 3.588235294117647
+      "numImages": 0.8235294117647058
     },
     "USA-MIW-MEN": {
       "numPosts": 2,
       "titleLength": 39,
       "bodyLength": 714,
-      "numImages": 1
+      "numImages": 0.5
     },
     "USA-EUG-EUG": {
       "numPosts": 112,
@@ -283,25 +283,25 @@
       "numPosts": 42,
       "titleLength": 38.80952380952381,
       "bodyLength": 667.5238095238095,
-      "numImages": 2.0714285714285716
+      "numImages": 2.0238095238095237
     },
     "USA-TYL-TYL": {
       "numPosts": 48,
       "titleLength": 31.5,
       "bodyLength": 446.2916666666667,
-      "numImages": 1.8333333333333333
+      "numImages": 1.6666666666666667
     },
     "USA-CHT-CHT": {
       "numPosts": 61,
       "titleLength": 33.49180327868852,
       "bodyLength": 438.7704918032787,
-      "numImages": 2.0655737704918034
+      "numImages": 2.0491803278688523
     },
     "USA-ROE-ROS": {
       "numPosts": 25,
       "titleLength": 27.48,
       "bodyLength": 404.2,
-      "numImages": 2.8
+      "numImages": 2.76
     },
     "USA-MCN-PER": {
       "numPosts": 20,
@@ -313,13 +313,13 @@
       "numPosts": 289,
       "titleLength": 41.844290657439444,
       "bodyLength": 912.5847750865051,
-      "numImages": 3.086505190311419
+      "numImages": 3.0795847750865053
     },
     "USA-KNO-KNO": {
       "numPosts": 72,
       "titleLength": 30.22222222222222,
       "bodyLength": 539.1388888888889,
-      "numImages": 2.0972222222222223
+      "numImages": 2.0555555555555554
     },
     "USA-PTT-POR": {
       "numPosts": 41,
@@ -331,13 +331,13 @@
       "numPosts": 52,
       "titleLength": 31.153846153846153,
       "bodyLength": 640.3076923076923,
-      "numImages": 1.5192307692307692
+      "numImages": 1.4423076923076923
     },
     "USA-MAY-MAV": {
       "numPosts": 1,
       "titleLength": 14,
       "bodyLength": 134,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-BOS-BOT": {
       "numPosts": 59,
@@ -349,13 +349,13 @@
       "numPosts": 20,
       "titleLength": 31.7,
       "bodyLength": 421.45,
-      "numImages": 1.6
+      "numImages": 1.55
     },
     "USA-MEM-MEM": {
       "numPosts": 74,
       "titleLength": 34.851351351351354,
       "bodyLength": 1039.2702702702702,
-      "numImages": 2.972972972972973
+      "numImages": 2.864864864864865
     },
     "USA-ALL-EAS": {
       "numPosts": 66,
@@ -367,25 +367,25 @@
       "numPosts": 79,
       "titleLength": 33.21518987341772,
       "bodyLength": 508.65822784810126,
-      "numImages": 1.9873417721518987
+      "numImages": 1.9620253164556962
     },
     "USA-MOD-MOD": {
       "numPosts": 104,
       "titleLength": 34.82692307692308,
       "bodyLength": 556.6826923076923,
-      "numImages": 2.2884615384615383
+      "numImages": 2.2788461538461537
     },
     "USA-HOU-SUG": {
       "numPosts": 1,
       "titleLength": 41,
       "bodyLength": 536,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-YOU-YOU": {
       "numPosts": 29,
       "titleLength": 34.758620689655174,
       "bodyLength": 913.2413793103449,
-      "numImages": 1.7586206896551724
+      "numImages": 1.7241379310344827
     },
     "USA-DEN-DEN": {
       "numPosts": 253,
@@ -433,31 +433,31 @@
       "numPosts": 140,
       "titleLength": 33.09285714285714,
       "bodyLength": 638.6928571428572,
-      "numImages": 1.8428571428571427
+      "numImages": 1.8285714285714285
     },
     "USA-PRO-PRO": {
       "numPosts": 4,
       "titleLength": 39.75,
       "bodyLength": 361,
-      "numImages": 5.25
+      "numImages": 3.25
     },
     "USA-TUC-TUC": {
       "numPosts": 134,
       "titleLength": 32.44776119402985,
       "bodyLength": 588,
-      "numImages": 2.2686567164179103
+      "numImages": 2.246268656716418
     },
     "USA-MEM-SOU": {
       "numPosts": 1,
       "titleLength": 47,
       "bodyLength": 1710,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-REN-REN": {
       "numPosts": 78,
       "titleLength": 32.34615384615385,
       "bodyLength": 627.7051282051282,
-      "numImages": 2.128205128205128
+      "numImages": 2.1153846153846154
     },
     "USA-LAS-LAS": {
       "numPosts": 95,
@@ -469,13 +469,13 @@
       "numPosts": 72,
       "titleLength": 29.36111111111111,
       "bodyLength": 636.8194444444445,
-      "numImages": 2.125
+      "numImages": 2.013888888888889
     },
     "USA-COL-COL": {
       "numPosts": 43,
       "titleLength": 34.74418604651163,
       "bodyLength": 502.8837209302326,
-      "numImages": 1.8372093023255813
+      "numImages": 1.627906976744186
     },
     "USA-AUT-AUS": {
       "numPosts": 41,
@@ -487,7 +487,7 @@
       "numPosts": 4,
       "titleLength": 42.25,
       "bodyLength": 1469,
-      "numImages": 8.5
+      "numImages": 8
     },
     "USA-WIM-WIM": {
       "numPosts": 29,
@@ -505,19 +505,19 @@
       "numPosts": 5,
       "titleLength": 34.6,
       "bodyLength": 1389.8,
-      "numImages": 2.2
+      "numImages": 1
     },
     "USA-TLS-TUL": {
       "numPosts": 36,
       "titleLength": 27.22222222222222,
       "bodyLength": 707.0277777777778,
-      "numImages": 2.0833333333333335
+      "numImages": 2
     },
     "USA-FOC-LOV": {
       "numPosts": 1,
       "titleLength": 34,
       "bodyLength": 459,
-      "numImages": 5
+      "numImages": 0
     },
     "USA-ALN-ALB": {
       "numPosts": 70,
@@ -529,31 +529,31 @@
       "numPosts": 59,
       "titleLength": 29.508474576271187,
       "bodyLength": 816.9491525423729,
-      "numImages": 1.4915254237288136
+      "numImages": 1.3559322033898304
     },
     "USA-LOU-LOU": {
       "numPosts": 76,
       "titleLength": 29.842105263157894,
       "bodyLength": 768.328947368421,
-      "numImages": 1.5789473684210527
+      "numImages": 1.5657894736842106
     },
     "USA-NEO-NEW": {
       "numPosts": 86,
       "titleLength": 37.27906976744186,
       "bodyLength": 686.4302325581396,
-      "numImages": 1.3255813953488371
+      "numImages": 1.302325581395349
     },
     "USA-TLH-TAL": {
       "numPosts": 42,
       "titleLength": 29.452380952380953,
       "bodyLength": 633,
-      "numImages": 1.5714285714285714
+      "numImages": 1.5476190476190477
     },
     "USA-CAI-MAT": {
       "numPosts": 12,
       "titleLength": 24.833333333333332,
       "bodyLength": 482.75,
-      "numImages": 0.9166666666666666
+      "numImages": 0.8333333333333334
     },
     "USA-CTN-CHA": {
       "numPosts": 56,
@@ -565,13 +565,13 @@
       "numPosts": 36,
       "titleLength": 43.47222222222222,
       "bodyLength": 903,
-      "numImages": 2.0277777777777777
+      "numImages": 2
     },
     "USA-MED-ASH": {
       "numPosts": 61,
       "titleLength": 29.59016393442623,
       "bodyLength": 433.1639344262295,
-      "numImages": 2.459016393442623
+      "numImages": 2.442622950819672
     },
     "USA-DES-DEM": {
       "numPosts": 97,
@@ -589,7 +589,7 @@
       "numPosts": 31,
       "titleLength": null,
       "bodyLength": 516.1612903225806,
-      "numImages": 1.4838709677419355
+      "numImages": 1.4516129032258065
     },
     "USA-NOI-NEW": {
       "numPosts": 1,
@@ -601,7 +601,7 @@
       "numPosts": 59,
       "titleLength": 33.559322033898304,
       "bodyLength": 675.8305084745763,
-      "numImages": 2.3220338983050848
+      "numImages": 2.288135593220339
     },
     "USA-GSO-WIN": {
       "numPosts": 42,
@@ -613,7 +613,7 @@
       "numPosts": 20,
       "titleLength": 35.85,
       "bodyLength": 529.25,
-      "numImages": 1.3
+      "numImages": 1.2
     },
     "USA-GRR-GRR": {
       "numPosts": 65,
@@ -637,85 +637,85 @@
       "numPosts": 163,
       "titleLength": 30.515337423312882,
       "bodyLength": 537.2699386503067,
-      "numImages": 2.1349693251533743
+      "numImages": 2.128834355828221
     },
     "USA-BOS-NOK": {
       "numPosts": 46,
       "titleLength": 28.956521739130434,
       "bodyLength": 534.2391304347826,
-      "numImages": 1.1304347826086956
+      "numImages": 1.108695652173913
     },
     "USA-IDO-COL": {
       "numPosts": 1,
       "titleLength": 47,
       "bodyLength": 293,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-BAK-BAK": {
       "numPosts": 99,
       "titleLength": 31.525252525252526,
       "bodyLength": 471.8989898989899,
-      "numImages": 1.97979797979798
+      "numImages": 1.9191919191919191
     },
     "USA-WAS-FRS": {
       "numPosts": 37,
       "titleLength": 40.7027027027027,
       "bodyLength": 613.8108108108108,
-      "numImages": 1.7297297297297298
+      "numImages": 1.7027027027027026
     },
     "USA-CIN-CIN": {
       "numPosts": 160,
       "titleLength": 30.6375,
       "bodyLength": 597.7375,
-      "numImages": 2.125
+      "numImages": 2.11875
     },
     "USA-MIA-FOR": {
       "numPosts": 4,
       "titleLength": 38.75,
       "bodyLength": 772,
-      "numImages": 3
+      "numImages": 2.5
     },
     "USA-DAL-PLA": {
       "numPosts": 8,
       "titleLength": 35.125,
       "bodyLength": 1614,
-      "numImages": 5
+      "numImages": 4.375
     },
     "USA-BUF-BUF": {
       "numPosts": 76,
       "titleLength": 30.394736842105264,
       "bodyLength": 444.0131578947368,
-      "numImages": 1.486842105263158
+      "numImages": 1.4736842105263157
     },
     "USA-SEF-FRA": {
       "numPosts": 2,
       "titleLength": 69,
       "bodyLength": 1530,
-      "numImages": 8
+      "numImages": 4
     },
     "USA-NAS-BRE": {
       "numPosts": 1,
       "titleLength": 14,
       "bodyLength": 310,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-NAP-NAP": {
       "numPosts": 1,
       "titleLength": 23,
       "bodyLength": 214,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-FON-BRA": {
       "numPosts": 60,
       "titleLength": 27.183333333333334,
       "bodyLength": 412.1666666666667,
-      "numImages": 1.4333333333333333
+      "numImages": 1.4166666666666667
     },
     "USA-KS-SYL": {
       "numPosts": 12,
       "titleLength": 41.333333333333336,
       "bodyLength": 721.6666666666666,
-      "numImages": 1.1666666666666667
+      "numImages": 0.8333333333333334
     },
     "USA-STC-STO": {
       "numPosts": 91,
@@ -727,25 +727,25 @@
       "numPosts": 10,
       "titleLength": 24.8,
       "bodyLength": 283.8,
-      "numImages": 3.6
+      "numImages": 3
     },
     "USA-HEL-HEL": {
       "numPosts": 6,
       "titleLength": 35.666666666666664,
       "bodyLength": 1088.3333333333333,
-      "numImages": 2.5
+      "numImages": 2.3333333333333335
     },
     "USA-SAC-SAC": {
       "numPosts": 155,
       "titleLength": 35.23225806451613,
       "bodyLength": null,
-      "numImages": 3.109677419354839
+      "numImages": 3.096774193548387
     },
     "USA-OKL-WAN": {
       "numPosts": 10,
       "titleLength": 32.5,
       "bodyLength": 1841.9,
-      "numImages": 0.7
+      "numImages": 0.6
     },
     "USA-AUT-SAN": {
       "numPosts": 11,
@@ -763,7 +763,7 @@
       "numPosts": 1,
       "titleLength": 49,
       "bodyLength": 616,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-OKL-OKL": {
       "numPosts": 127,
@@ -781,13 +781,13 @@
       "numPosts": 7,
       "titleLength": 52.857142857142854,
       "bodyLength": 1011.7142857142857,
-      "numImages": 6.428571428571429
+      "numImages": 5.714285714285714
     },
     "USA-PLM-MEF": {
       "numPosts": 1,
       "titleLength": 45,
       "bodyLength": 708,
-      "numImages": 5
+      "numImages": 0
     },
     "USA-SAT-SAT": {
       "numPosts": 175,
@@ -805,7 +805,7 @@
       "numPosts": 1,
       "titleLength": 65,
       "bodyLength": 615,
-      "numImages": 7
+      "numImages": 0
     },
     "USA-DAL-ROY": {
       "numPosts": 7,
@@ -817,43 +817,43 @@
       "numPosts": 1,
       "titleLength": 25,
       "bodyLength": 601,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-AL-BIR": {
       "numPosts": 68,
       "titleLength": 35.98529411764706,
       "bodyLength": 840.6470588235294,
-      "numImages": 1.5147058823529411
+      "numImages": 1.4558823529411764
     },
     "USA-BOS-CON": {
       "numPosts": 81,
       "titleLength": 32.50617283950617,
       "bodyLength": 484.4567901234568,
-      "numImages": 2.6296296296296298
+      "numImages": 2.617283950617284
     },
     "USA-LAX-IRV": {
       "numPosts": 90,
       "titleLength": 37.022222222222226,
       "bodyLength": 1088.8,
-      "numImages": 2.188888888888889
+      "numImages": 2.1777777777777776
     },
     "USA-IDO-GRW": {
       "numPosts": 1,
       "titleLength": 66,
       "bodyLength": 333,
-      "numImages": 7
+      "numImages": 0
     },
     "USA-SAR-PAR": {
       "numPosts": 1,
       "titleLength": 27,
       "bodyLength": 1168,
-      "numImages": 17
+      "numImages": 0
     },
     "USA-WIK-WIC": {
       "numPosts": 56,
       "titleLength": 29.571428571428573,
       "bodyLength": 457.9107142857143,
-      "numImages": 2.125
+      "numImages": 2.0892857142857144
     },
     "USA-HUS-DEC": {
       "numPosts": 60,
@@ -865,43 +865,43 @@
       "numPosts": 5,
       "titleLength": 27.6,
       "bodyLength": 175.8,
-      "numImages": 0.6
+      "numImages": 0.4
     },
     "USA-RAL-WAK": {
       "numPosts": 34,
       "titleLength": 32.1764705882353,
       "bodyLength": 777.4411764705883,
-      "numImages": 1.2058823529411764
+      "numImages": 1.1764705882352942
     },
     "USA-NYM-RSN": {
       "numPosts": 38,
       "titleLength": 32.5,
       "bodyLength": 593.3421052631579,
-      "numImages": 1.736842105263158
+      "numImages": 1.5789473684210527
     },
     "USA-BUT-BUT": {
       "numPosts": 6,
       "titleLength": 37.666666666666664,
       "bodyLength": 972.5,
-      "numImages": 1.6666666666666667
+      "numImages": 1.5
     },
     "USA-MSE-MOS": {
       "numPosts": 14,
       "titleLength": 37.285714285714285,
       "bodyLength": 639.9285714285714,
-      "numImages": 4.785714285714286
+      "numImages": 4.642857142857143
     },
     "USA-BOS-CHM": {
       "numPosts": 1,
       "titleLength": 67,
       "bodyLength": 1092,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-OMA-COU": {
       "numPosts": 103,
       "titleLength": 31.174757281553397,
       "bodyLength": 474.2330097087379,
-      "numImages": 1.7087378640776698
+      "numImages": 1.6407766990291262
     },
     "USA-PHX-PHO": {
       "numPosts": 8,
@@ -913,13 +913,13 @@
       "numPosts": 2,
       "titleLength": 34.5,
       "bodyLength": 410.5,
-      "numImages": 7
+      "numImages": 3
     },
     "USA-MOI-MOB": {
       "numPosts": 55,
       "titleLength": 35.78181818181818,
       "bodyLength": null,
-      "numImages": 2.3454545454545452
+      "numImages": 2.2363636363636363
     },
     "USA-KNO-POE": {
       "numPosts": 1,
@@ -931,7 +931,7 @@
       "numPosts": 44,
       "titleLength": 30.65909090909091,
       "bodyLength": 806.9090909090909,
-      "numImages": 1.7272727272727273
+      "numImages": 1.6818181818181819
     },
     "USA-AUG-AUG": {
       "numPosts": 16,
@@ -955,7 +955,7 @@
       "numPosts": 58,
       "titleLength": 32.189655172413794,
       "bodyLength": 597.7068965517242,
-      "numImages": 2.3275862068965516
+      "numImages": 2.293103448275862
     },
     "USA-FAN-FAY": {
       "numPosts": 62,
@@ -967,7 +967,7 @@
       "numPosts": 1,
       "titleLength": 23,
       "bodyLength": 355,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-SAC-ELK": {
       "numPosts": 4,
@@ -979,19 +979,19 @@
       "numPosts": 19,
       "titleLength": 23.789473684210527,
       "bodyLength": 478.5263157894737,
-      "numImages": 1.6842105263157894
+      "numImages": 1.5263157894736843
     },
     "USA-DEC-DEC": {
       "numPosts": 11,
       "titleLength": 26.727272727272727,
       "bodyLength": 778.3636363636364,
-      "numImages": 1.3636363636363635
+      "numImages": 1.0909090909090908
     },
     "USA-WAS-FRM": {
       "numPosts": 18,
       "titleLength": 30.166666666666668,
       "bodyLength": 553.5555555555555,
-      "numImages": 2.5555555555555554
+      "numImages": 2.2777777777777777
     },
     "USA-OCA-OCA": {
       "numPosts": 33,
@@ -1003,13 +1003,13 @@
       "numPosts": 61,
       "titleLength": 33.91803278688525,
       "bodyLength": 798.327868852459,
-      "numImages": 2.9836065573770494
+      "numImages": 2.8852459016393444
     },
     "USA-TPA-PIE": {
       "numPosts": 3,
       "titleLength": 44,
       "bodyLength": 495.3333333333333,
-      "numImages": 3.6666666666666665
+      "numImages": 2.3333333333333335
     },
     "USA-BOI-BOI": {
       "numPosts": 83,
@@ -1021,7 +1021,7 @@
       "numPosts": 50,
       "titleLength": 34.14,
       "bodyLength": 611.58,
-      "numImages": 1.88
+      "numImages": 1.5
     },
     "USA-WAS-WSD": {
       "numPosts": 44,
@@ -1039,19 +1039,19 @@
       "numPosts": 119,
       "titleLength": 31.647058823529413,
       "bodyLength": 388.2352941176471,
-      "numImages": 2.26890756302521
+      "numImages": 2.2521008403361344
     },
     "USA-PES-PEN": {
       "numPosts": 57,
       "titleLength": 32.771929824561404,
       "bodyLength": 376.63157894736844,
-      "numImages": 2.7719298245614037
+      "numImages": 2.6666666666666665
     },
     "USA-SAC-CIT": {
       "numPosts": 2,
       "titleLength": 30.5,
       "bodyLength": 1977.5,
-      "numImages": 6.5
+      "numImages": 3
     },
     "USA-NEO-COV": {
       "numPosts": 1,
@@ -1063,7 +1063,7 @@
       "numPosts": 10,
       "titleLength": 30.8,
       "bodyLength": 1476.4,
-      "numImages": 2.5
+      "numImages": 1.9
     },
     "USA-GSO-GRE": {
       "numPosts": 39,
@@ -1075,7 +1075,7 @@
       "numPosts": 50,
       "titleLength": 32.78,
       "bodyLength": 649.38,
-      "numImages": 1.94
+      "numImages": 1.9
     },
     "USA-CUO-COL": {
       "numPosts": 67,
@@ -1093,19 +1093,19 @@
       "numPosts": 1,
       "titleLength": 13,
       "bodyLength": 252,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-DET-YPS": {
       "numPosts": 7,
       "titleLength": 36.42857142857143,
       "bodyLength": 625.4285714285714,
-      "numImages": 4.857142857142857
+      "numImages": 3.857142857142857
     },
     "USA-ATL-LAF": {
       "numPosts": 14,
       "titleLength": 26.142857142857142,
       "bodyLength": 198.35714285714286,
-      "numImages": 1.8571428571428572
+      "numImages": 1.7857142857142858
     },
     "USA-NYM-BRT": {
       "numPosts": 1,
@@ -1117,13 +1117,13 @@
       "numPosts": 34,
       "titleLength": 28,
       "bodyLength": 449.44117647058823,
-      "numImages": 2.5
+      "numImages": 2.4705882352941178
     },
     "USA-SAS-PRI": {
       "numPosts": 11,
       "titleLength": 29.636363636363637,
       "bodyLength": 484.8181818181818,
-      "numImages": 1.6363636363636365
+      "numImages": 1.3636363636363635
     },
     "USA-ONE-ONE": {
       "numPosts": 3,
@@ -1135,25 +1135,25 @@
       "numPosts": 6,
       "titleLength": 54.333333333333336,
       "bodyLength": 1644.8333333333333,
-      "numImages": 8.5
+      "numImages": 7.333333333333333
     },
     "USA-BUF-ALD": {
       "numPosts": 1,
       "titleLength": 57,
       "bodyLength": 499,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-SAC-FOL": {
       "numPosts": 1,
       "titleLength": 50,
       "bodyLength": 590,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-TOL-TOL": {
       "numPosts": 41,
       "titleLength": 37.8780487804878,
       "bodyLength": 450.3414634146341,
-      "numImages": 2.4390243902439024
+      "numImages": 2.073170731707317
     },
     "USA-CLE-CLE": {
       "numPosts": 28,
@@ -1171,31 +1171,31 @@
       "numPosts": 3,
       "titleLength": 26.333333333333332,
       "bodyLength": 949,
-      "numImages": 7
+      "numImages": 5.333333333333333
     },
     "USA-JEF-JEF": {
       "numPosts": 38,
       "titleLength": 33.6578947368421,
       "bodyLength": 766.3421052631579,
-      "numImages": 1.6842105263157894
+      "numImages": 1.6578947368421053
     },
     "USA-KAN-KAN": {
       "numPosts": 63,
       "titleLength": 31.571428571428573,
       "bodyLength": 733.031746031746,
-      "numImages": 1.9841269841269842
+      "numImages": 1.9523809523809523
     },
     "USA-KAI-KAL": {
       "numPosts": 11,
       "titleLength": 21.181818181818183,
       "bodyLength": 451.09090909090907,
-      "numImages": 1.2727272727272727
+      "numImages": 0.8181818181818182
     },
     "USA-LAX-GAG": {
       "numPosts": 2,
       "titleLength": 46,
       "bodyLength": 1675,
-      "numImages": 14
+      "numImages": 7
     },
     "USA-LAX-OXN": {
       "numPosts": 3,
@@ -1213,19 +1213,19 @@
       "numPosts": 6,
       "titleLength": 29.333333333333332,
       "bodyLength": 589.8333333333334,
-      "numImages": 0.8333333333333334
+      "numImages": 0.6666666666666666
     },
     "USA-CUO-DEL": {
       "numPosts": 50,
       "titleLength": 34.06,
       "bodyLength": 590.38,
-      "numImages": 1.94
+      "numImages": 1.92
     },
     "USA-SPO-GRE": {
       "numPosts": 2,
       "titleLength": 47,
       "bodyLength": 184,
-      "numImages": 1
+      "numImages": 0.5
     },
     "USA-LAX-RAM": {
       "numPosts": 2,
@@ -1237,25 +1237,25 @@
       "numPosts": 41,
       "titleLength": 28.24390243902439,
       "bodyLength": 748.9268292682926,
-      "numImages": 2.317073170731707
+      "numImages": 2.1463414634146343
     },
     "USA-LAH-KIN": {
       "numPosts": 10,
       "titleLength": 25.5,
       "bodyLength": 265.3,
-      "numImages": 1.5
+      "numImages": 1.1
     },
     "USA-POT-GIR": {
       "numPosts": 2,
       "titleLength": 28,
       "bodyLength": 1121,
-      "numImages": 8
+      "numImages": 4
     },
     "USA-SRA-HOY": {
       "numPosts": 2,
       "titleLength": 36,
       "bodyLength": 222,
-      "numImages": 4
+      "numImages": 2
     },
     "USA-PIF-GRE": {
       "numPosts": 2,
@@ -1273,13 +1273,13 @@
       "numPosts": 6,
       "titleLength": 59,
       "bodyLength": 705.3333333333334,
-      "numImages": 3.5
+      "numImages": 2.5
     },
     "USA-LAX-WEM": {
       "numPosts": 7,
       "titleLength": 40.285714285714285,
       "bodyLength": 1032.2857142857142,
-      "numImages": 4.714285714285714
+      "numImages": 4.571428571428571
     },
     "USA-HON-AIE": {
       "numPosts": 4,
@@ -1291,13 +1291,13 @@
       "numPosts": 2,
       "titleLength": 27,
       "bodyLength": 867,
-      "numImages": 5
+      "numImages": 2.5
     },
     "USA-MAW-BAN": {
       "numPosts": 2,
       "titleLength": 28,
       "bodyLength": 998,
-      "numImages": 14
+      "numImages": 7
     },
     "USA-MIW-GER": {
       "numPosts": 2,
@@ -1309,43 +1309,43 @@
       "numPosts": 1,
       "titleLength": 20,
       "bodyLength": 963,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-PAN-PAF": {
       "numPosts": 20,
       "titleLength": 37.15,
       "bodyLength": 606.7,
-      "numImages": 2.15
+      "numImages": 2.1
     },
     "USA-SPO-SPO": {
       "numPosts": 14,
       "titleLength": 37.714285714285715,
       "bodyLength": 986.9285714285714,
-      "numImages": 4.642857142857143
+      "numImages": 4.071428571428571
     },
     "USA-BUV-BUR": {
       "numPosts": 1,
       "titleLength": 34,
       "bodyLength": 1249,
-      "numImages": 6
+      "numImages": 0
     },
     "USA-SAC-CAM": {
       "numPosts": 5,
       "titleLength": 41.2,
       "bodyLength": 1074,
-      "numImages": 10.6
+      "numImages": 8.8
     },
     "USA-CIN-HAI": {
       "numPosts": 1,
       "titleLength": 67,
       "bodyLength": 1294,
-      "numImages": 12
+      "numImages": 0
     },
     "USA-ORL-ORM": {
       "numPosts": 1,
       "titleLength": 16,
       "bodyLength": 462,
-      "numImages": 5
+      "numImages": 0
     },
     "USA-TN-PAR": {
       "numPosts": 1,
@@ -1357,43 +1357,43 @@
       "numPosts": 5,
       "titleLength": 46.6,
       "bodyLength": 1649.6,
-      "numImages": 2.2
+      "numImages": 2
     },
     "USA-FRS-FRE": {
       "numPosts": 6,
       "titleLength": 39.166666666666664,
       "bodyLength": 1173,
-      "numImages": 2.6666666666666665
+      "numImages": 1.8333333333333333
     },
     "USA-PAN-PAB": {
       "numPosts": 7,
       "titleLength": 22.285714285714285,
       "bodyLength": 724.7142857142857,
-      "numImages": 8
+      "numImages": 6.857142857142857
     },
     "USA-ROF-ROF": {
       "numPosts": 36,
       "titleLength": 27.88888888888889,
       "bodyLength": 361.02777777777777,
-      "numImages": 1.5277777777777777
+      "numImages": 1.4444444444444444
     },
     "USA-RAL-HOL": {
       "numPosts": 1,
       "titleLength": 47,
       "bodyLength": 813,
-      "numImages": 16
+      "numImages": 0
     },
     "USA-MAW-MOU": {
       "numPosts": 1,
       "titleLength": 24,
       "bodyLength": 1053,
-      "numImages": 29
+      "numImages": 0
     },
     "USA-DEN-BRO": {
       "numPosts": 1,
       "titleLength": 66,
       "bodyLength": 1010,
-      "numImages": 5
+      "numImages": 0
     },
     "USA-GEB-DEP": {
       "numPosts": 1,
@@ -1405,43 +1405,43 @@
       "numPosts": 1,
       "titleLength": 47,
       "bodyLength": 519,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-NEP-NEP": {
       "numPosts": 4,
       "titleLength": 20.25,
       "bodyLength": 889.25,
-      "numImages": 2.5
+      "numImages": 2
     },
     "USA-OMA-OMA": {
       "numPosts": 2,
       "titleLength": 35,
       "bodyLength": 1213,
-      "numImages": 4.5
+      "numImages": 0.5
     },
     "USA-FRS-SAG": {
       "numPosts": 4,
       "titleLength": 38.25,
       "bodyLength": 542.5,
-      "numImages": 2.5
+      "numImages": 2
     },
     "USA-BOS-DON": {
       "numPosts": 1,
       "titleLength": 47,
       "bodyLength": 184,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-NYM-HOB": {
       "numPosts": 2,
       "titleLength": 56,
       "bodyLength": 470,
-      "numImages": 3.5
+      "numImages": 2
     },
     "USA-VIR-VIR": {
       "numPosts": 3,
       "titleLength": 44.666666666666664,
       "bodyLength": 1085.3333333333333,
-      "numImages": 6.333333333333333
+      "numImages": 3
     },
     "USA-TPA-APO": {
       "numPosts": 1,
@@ -1459,7 +1459,7 @@
       "numPosts": 7,
       "titleLength": 40.714285714285715,
       "bodyLength": 2918.714285714286,
-      "numImages": 1.1428571428571428
+      "numImages": 1
     },
     "USA-BOS-CHT": {
       "numPosts": 1,
@@ -1471,7 +1471,7 @@
       "numPosts": 6,
       "titleLength": 31.833333333333332,
       "bodyLength": 1779.6666666666667,
-      "numImages": 7.333333333333333
+      "numImages": 6.333333333333333
     },
     "USA-CTN-COR": {
       "numPosts": 1,
@@ -1489,37 +1489,37 @@
       "numPosts": 2,
       "titleLength": 32,
       "bodyLength": 129.5,
-      "numImages": 15
+      "numImages": 4
     },
     "USA-RAL-RAL": {
       "numPosts": 1,
       "titleLength": 29,
       "bodyLength": 208,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-CLE-ELY": {
       "numPosts": 3,
       "titleLength": 35,
       "bodyLength": 2945.6666666666665,
-      "numImages": 37
+      "numImages": 28.666666666666668
     },
     "USA-LAX-PAE": {
       "numPosts": 1,
       "titleLength": 58,
       "bodyLength": 3657,
-      "numImages": 14
+      "numImages": 0
     },
     "USA-BRI-BRA": {
       "numPosts": 2,
       "titleLength": 28.5,
       "bodyLength": 331,
-      "numImages": 1
+      "numImages": 0.5
     },
     "USA-RCV-HEN": {
       "numPosts": 2,
       "titleLength": 41,
       "bodyLength": 2065.5,
-      "numImages": 6.5
+      "numImages": 3.5
     },
     "USA-MED-MED": {
       "numPosts": 4,
@@ -1531,7 +1531,7 @@
       "numPosts": 1,
       "titleLength": 40,
       "bodyLength": 627,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-MCL-MIS": {
       "numPosts": 1,
@@ -1543,25 +1543,25 @@
       "numPosts": 2,
       "titleLength": 43,
       "bodyLength": 333,
-      "numImages": 4
+      "numImages": 2
     },
     "USA-RON-WEH": {
       "numPosts": 1,
       "titleLength": 13,
       "bodyLength": 155,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-BUF-HAM": {
       "numPosts": 1,
       "titleLength": 35,
       "bodyLength": 984,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-WAS-DUD": {
       "numPosts": 1,
       "titleLength": 18,
       "bodyLength": 297,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-KAN-LEN": {
       "numPosts": 2,
@@ -1573,43 +1573,43 @@
       "numPosts": 3,
       "titleLength": 44.666666666666664,
       "bodyLength": 1195,
-      "numImages": 4.666666666666667
+      "numImages": 3.6666666666666665
     },
     "USA-ROE-WIN": {
       "numPosts": 1,
       "titleLength": 16,
       "bodyLength": 726,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-LAX-ANA": {
       "numPosts": 6,
       "titleLength": 37.5,
       "bodyLength": 997.5,
-      "numImages": 6.666666666666667
+      "numImages": 4.833333333333333
     },
     "USA-PTT-VER": {
       "numPosts": 1,
       "titleLength": 44,
       "bodyLength": 430,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-FOC-WEL": {
       "numPosts": 1,
       "titleLength": 22,
       "bodyLength": 628,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-PHI-WEG": {
       "numPosts": 1,
       "titleLength": 60,
       "bodyLength": 2460,
-      "numImages": 16
+      "numImages": 0
     },
     "USA-NYM-JES": {
       "numPosts": 5,
       "titleLength": 45,
       "bodyLength": 587.6,
-      "numImages": 2.4
+      "numImages": 2.2
     },
     "USA-LAX-NWE": {
       "numPosts": 67,
@@ -1621,61 +1621,61 @@
       "numPosts": 5,
       "titleLength": 54,
       "bodyLength": 1376,
-      "numImages": 2
+      "numImages": 0.8
     },
     "USA-NAS-COU": {
       "numPosts": 1,
       "titleLength": 36,
       "bodyLength": 603,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-SAC-MAT": {
       "numPosts": 1,
       "titleLength": 47,
       "bodyLength": 541,
-      "numImages": 7
+      "numImages": 0
     },
     "USA-MEA-MEA": {
       "numPosts": 3,
       "titleLength": 25.333333333333332,
       "bodyLength": 1134.6666666666667,
-      "numImages": 1.6666666666666667
+      "numImages": 1.3333333333333333
     },
     "USA-NYM-OAV": {
       "numPosts": 1,
       "titleLength": 70,
       "bodyLength": 644,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-LAL-HAI": {
       "numPosts": 1,
       "titleLength": 56,
       "bodyLength": 1158,
-      "numImages": 5
+      "numImages": 0
     },
     "USA-HOU-HOU": {
       "numPosts": 29,
       "titleLength": 32.03448275862069,
       "bodyLength": 1513.9655172413793,
-      "numImages": 1.0689655172413792
+      "numImages": 1.0344827586206897
     },
     "USA-PES-GUL": {
       "numPosts": 1,
       "titleLength": 51,
       "bodyLength": 410,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-MIA-HOL": {
       "numPosts": 4,
       "titleLength": 27.25,
       "bodyLength": 835,
-      "numImages": 5.5
+      "numImages": 3.5
     },
     "USA-DES-WAU": {
       "numPosts": 1,
       "titleLength": 38,
       "bodyLength": 474,
-      "numImages": 5
+      "numImages": 0
     },
     "USA-TPA-CLF": {
       "numPosts": 2,
@@ -1687,31 +1687,31 @@
       "numPosts": 1,
       "titleLength": 20,
       "bodyLength": 1058,
-      "numImages": 15
+      "numImages": 0
     },
     "USA-DAL-WYL": {
       "numPosts": 1,
       "titleLength": 25,
       "bodyLength": 378,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-NYM-HAD": {
       "numPosts": 1,
       "titleLength": 40,
       "bodyLength": 1775,
-      "numImages": 10
+      "numImages": 0
     },
     "USA-CRS-MOU": {
       "numPosts": 1,
       "titleLength": 34,
       "bodyLength": 1822,
-      "numImages": 13
+      "numImages": 0
     },
     "USA-KAP-KAP": {
       "numPosts": 1,
       "titleLength": 21,
       "bodyLength": 404,
-      "numImages": 6
+      "numImages": 0
     },
     "USA-DAL-MES": {
       "numPosts": 4,
@@ -1723,31 +1723,31 @@
       "numPosts": 1,
       "titleLength": 27,
       "bodyLength": 447,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-CAC-CAE": {
       "numPosts": 2,
       "titleLength": 41.5,
       "bodyLength": 1846,
-      "numImages": 11
+      "numImages": 8
     },
     "USA-PLM-MIM": {
       "numPosts": 1,
       "titleLength": 40,
       "bodyLength": 577,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-POA-SEQ": {
       "numPosts": 1,
       "titleLength": 62,
       "bodyLength": 665,
-      "numImages": 6
+      "numImages": 0
     },
     "USA-STL-MAL": {
       "numPosts": 1,
       "titleLength": 31,
       "bodyLength": 367,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-BIR-CUL": {
       "numPosts": 1,
@@ -1759,49 +1759,49 @@
       "numPosts": 1,
       "titleLength": 41,
       "bodyLength": 267,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-PHI-PEG": {
       "numPosts": 1,
       "titleLength": 32,
       "bodyLength": 968,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-LAX-ORA": {
       "numPosts": 1,
       "titleLength": 65,
       "bodyLength": 4030,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-SAB-LOM": {
       "numPosts": 1,
       "titleLength": 16,
       "bodyLength": 414,
-      "numImages": 6
+      "numImages": 0
     },
     "USA-LAX-NEB": {
       "numPosts": 5,
       "titleLength": 61.2,
       "bodyLength": 1590.2,
-      "numImages": 2.6
+      "numImages": 1.6
     },
     "USA-GES-PEN": {
       "numPosts": 1,
       "titleLength": 64,
       "bodyLength": 457,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-KAN-LES": {
       "numPosts": 2,
       "titleLength": 42.5,
       "bodyLength": 1509.5,
-      "numImages": 23
+      "numImages": 12
     },
     "USA-GSO-MOC": {
       "numPosts": 1,
       "titleLength": 16,
       "bodyLength": 1901,
-      "numImages": 7
+      "numImages": 0
     },
     "USA-NYM-HIP": {
       "numPosts": 1,
@@ -1813,61 +1813,61 @@
       "numPosts": 1,
       "titleLength": 34,
       "bodyLength": 2753,
-      "numImages": 26
+      "numImages": 0
     },
     "USA-MIA-POM": {
       "numPosts": 6,
       "titleLength": 50.666666666666664,
       "bodyLength": 2408.6666666666665,
-      "numImages": 5.166666666666667
+      "numImages": 4
     },
     "USA-MIA-MIF": {
       "numPosts": 2,
       "titleLength": 41,
       "bodyLength": 505,
-      "numImages": 3.5
+      "numImages": 1.5
     },
     "USA-LAX-INO": {
       "numPosts": 1,
       "titleLength": 64,
       "bodyLength": 1155,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-PHI-WAT": {
       "numPosts": 1,
       "titleLength": 44,
       "bodyLength": 1210,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-LAX-LGH": {
       "numPosts": 1,
       "titleLength": 27,
       "bodyLength": 1507,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-SAC-RAN": {
       "numPosts": 2,
       "titleLength": 45.5,
       "bodyLength": 2995,
-      "numImages": 10.5
+      "numImages": 5
     },
     "USA-PHI-LAW": {
       "numPosts": 1,
       "titleLength": 50,
       "bodyLength": 471,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-HON-HON": {
       "numPosts": 2,
       "titleLength": 14.5,
       "bodyLength": 438,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-CIN-FAI": {
       "numPosts": 1,
       "titleLength": 62,
       "bodyLength": 1403,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-STL-SAP": {
       "numPosts": 1,
@@ -1879,7 +1879,7 @@
       "numPosts": 1,
       "titleLength": 56,
       "bodyLength": 523,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-SYR-KIR": {
       "numPosts": 1,
@@ -1891,13 +1891,13 @@
       "numPosts": 1,
       "titleLength": 51,
       "bodyLength": 1255,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-LAX-TRA": {
       "numPosts": 1,
       "titleLength": 60,
       "bodyLength": 2177,
-      "numImages": 6
+      "numImages": 0
     },
     "USA-MIN-ANK": {
       "numPosts": 17,
@@ -1909,37 +1909,37 @@
       "numPosts": 1,
       "titleLength": 30,
       "bodyLength": 269,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-CLE-SOL": {
       "numPosts": 1,
       "titleLength": 66,
       "bodyLength": 1208,
-      "numImages": 6
+      "numImages": 0
     },
     "USA-SHR-SHR": {
       "numPosts": 7,
       "titleLength": 26.142857142857142,
       "bodyLength": 424.7142857142857,
-      "numImages": 2.2857142857142856
+      "numImages": 1.4285714285714286
     },
     "USA-NYM-MIY": {
       "numPosts": 1,
       "titleLength": 15,
       "bodyLength": 416,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-CIN-WEC": {
       "numPosts": 3,
       "titleLength": 55,
       "bodyLength": 1353.3333333333333,
-      "numImages": 5.666666666666667
+      "numImages": 4
     },
     "USA-VIR-NOF": {
       "numPosts": 1,
       "titleLength": 20,
       "bodyLength": 596,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-TLS-GLE": {
       "numPosts": 1,
@@ -1951,37 +1951,37 @@
       "numPosts": 9,
       "titleLength": 30.11111111111111,
       "bodyLength": 1060.111111111111,
-      "numImages": 1.8888888888888888
+      "numImages": 1.2222222222222223
     },
     "USA-IA-OSC": {
       "numPosts": 2,
       "titleLength": 38,
       "bodyLength": 144,
-      "numImages": 4
+      "numImages": 2
     },
     "USA-STL-FEN": {
       "numPosts": 2,
       "titleLength": 42,
       "bodyLength": 7579,
-      "numImages": 4
+      "numImages": 2
     },
     "USA-STL-CED": {
       "numPosts": 2,
       "titleLength": 13,
       "bodyLength": 937,
-      "numImages": 8
+      "numImages": 4
     },
     "USA-MIA-PAF": {
       "numPosts": 2,
       "titleLength": 17,
       "bodyLength": 577,
-      "numImages": 4
+      "numImages": 2
     },
     "USA-MOI-GUL": {
       "numPosts": 2,
       "titleLength": 11,
       "bodyLength": 1111,
-      "numImages": 8
+      "numImages": 4
     },
     "USA-BAO-DEN": {
       "numPosts": 2,
@@ -1993,31 +1993,31 @@
       "numPosts": 2,
       "titleLength": 69,
       "bodyLength": 1741,
-      "numImages": 1
+      "numImages": 0.5
     },
     "USA-CIN-WAL": {
       "numPosts": 2,
       "titleLength": 63,
       "bodyLength": 794,
-      "numImages": 7
+      "numImages": 3.5
     },
     "USA-NYM-NPA": {
       "numPosts": 2,
       "titleLength": 34,
       "bodyLength": 1394,
-      "numImages": 9
+      "numImages": 4.5
     },
     "USA-LAX-LAN": {
       "numPosts": 6,
       "titleLength": 60.333333333333336,
       "bodyLength": 2270.3333333333335,
-      "numImages": 1
+      "numImages": 0.8333333333333334
     },
     "USA-MIN-MIA": {
       "numPosts": 3,
       "titleLength": 62,
       "bodyLength": 1165.3333333333333,
-      "numImages": 5
+      "numImages": 3.3333333333333335
     },
     "USA-GRR-HUD": {
       "numPosts": 2,
@@ -2029,13 +2029,13 @@
       "numPosts": 2,
       "titleLength": 13,
       "bodyLength": 1738,
-      "numImages": 7
+      "numImages": 3.5
     },
     "USA-NYM-CFT": {
       "numPosts": 2,
       "titleLength": 17,
       "bodyLength": 323,
-      "numImages": 6
+      "numImages": 3
     },
     "USA-OSK-OSK": {
       "numPosts": 4,
@@ -2047,7 +2047,7 @@
       "numPosts": 2,
       "titleLength": 29,
       "bodyLength": 104,
-      "numImages": 6
+      "numImages": 3
     },
     "USA-CRS-SUM": {
       "numPosts": 2,
@@ -2059,49 +2059,49 @@
       "numPosts": 2,
       "titleLength": 12,
       "bodyLength": 1853,
-      "numImages": 4
+      "numImages": 2
     },
     "USA-PHI-WIM": {
       "numPosts": 2,
       "titleLength": 12,
       "bodyLength": 129,
-      "numImages": 4
+      "numImages": 2
     },
     "USA-KNO-KOD": {
       "numPosts": 1,
       "titleLength": 34,
       "bodyLength": 240,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-NYM-LOR": {
       "numPosts": 1,
       "titleLength": 47,
       "bodyLength": 339,
-      "numImages": 6
+      "numImages": 0
     },
     "USA-MEM-BYH": {
       "numPosts": 1,
       "titleLength": 53,
       "bodyLength": 1094,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-WAS-BOW": {
       "numPosts": 1,
       "titleLength": 45,
       "bodyLength": 618,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-MIA-MIB": {
       "numPosts": 1,
       "titleLength": 61,
       "bodyLength": 198,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-MED-CEN": {
       "numPosts": 1,
       "titleLength": 40,
       "bodyLength": 4387,
-      "numImages": 31
+      "numImages": 0
     },
     "USA-NH-SAN": {
       "numPosts": 1,
@@ -2119,43 +2119,43 @@
       "numPosts": 1,
       "titleLength": 43,
       "bodyLength": 1556,
-      "numImages": 21
+      "numImages": 0
     },
     "USA-OMA-BEL": {
       "numPosts": 1,
       "titleLength": 58,
       "bodyLength": 1694,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-ME-HOU": {
       "numPosts": 1,
       "titleLength": 61,
       "bodyLength": 679,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-MIA-BOC": {
       "numPosts": 1,
       "titleLength": 47,
       "bodyLength": 457,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-HRT-WEF": {
       "numPosts": 1,
       "titleLength": 43,
       "bodyLength": 628,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-LAX-BRE": {
       "numPosts": 1,
       "titleLength": 34,
       "bodyLength": 1363,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-SAC-LOO": {
       "numPosts": 1,
       "titleLength": 50,
       "bodyLength": 492,
-      "numImages": 5
+      "numImages": 0
     },
     "USA-TLS-JEK": {
       "numPosts": 1,
@@ -2167,55 +2167,55 @@
       "numPosts": 1,
       "titleLength": 39,
       "bodyLength": 252,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-VIR-HAM": {
       "numPosts": 2,
       "titleLength": 64,
       "bodyLength": 198,
-      "numImages": 3
+      "numImages": 1.5
     },
     "USA-APP-OSH": {
       "numPosts": 2,
       "titleLength": 22,
       "bodyLength": 386,
-      "numImages": 4
+      "numImages": 2
     },
     "USA-SLT-PAC": {
       "numPosts": 2,
       "titleLength": 47,
       "bodyLength": 1711,
-      "numImages": 8
+      "numImages": 4
     },
     "USA-NYM-NEY": {
       "numPosts": 29,
       "titleLength": 46.89655172413793,
       "bodyLength": 1673.9310344827586,
-      "numImages": 1.3103448275862069
+      "numImages": 1.2758620689655173
     },
     "USA-MEM-COR": {
       "numPosts": 2,
       "titleLength": 40,
       "bodyLength": 1626,
-      "numImages": 5
+      "numImages": 2.5
     },
     "USA-WAS-ARL": {
       "numPosts": 2,
       "titleLength": 47,
       "bodyLength": 304,
-      "numImages": 10
+      "numImages": 5
     },
     "USA-DET-DET": {
       "numPosts": 2,
       "titleLength": 44,
       "bodyLength": 299,
-      "numImages": 8
+      "numImages": 4
     },
     "USA-LAX-SAU": {
       "numPosts": 2,
       "titleLength": 41,
       "bodyLength": 1401,
-      "numImages": 5
+      "numImages": 2.5
     },
     "USA-BOS-PAW": {
       "numPosts": 2,
@@ -2227,43 +2227,43 @@
       "numPosts": 2,
       "titleLength": 22,
       "bodyLength": 1129,
-      "numImages": 6
+      "numImages": 3
     },
     "USA-PHI-SWE": {
       "numPosts": 1,
       "titleLength": 33,
       "bodyLength": 2147,
-      "numImages": 12
+      "numImages": 0
     },
     "USA-KAN-OVE": {
       "numPosts": 2,
       "titleLength": 30,
       "bodyLength": 858.5,
-      "numImages": 5.5
+      "numImages": 3.5
     },
     "USA-RAL-CAY": {
       "numPosts": 1,
       "titleLength": 69,
       "bodyLength": 371,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-DET-SAL": {
       "numPosts": 1,
       "titleLength": 29,
       "bodyLength": 659,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-LAX-COC": {
       "numPosts": 1,
       "titleLength": 31,
       "bodyLength": 256,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-CTN-CON": {
       "numPosts": 1,
       "titleLength": 24,
       "bodyLength": 2567,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-POR-POR": {
       "numPosts": 3,
@@ -2275,91 +2275,91 @@
       "numPosts": 1,
       "titleLength": 36,
       "bodyLength": 1736,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-WAS-GLB": {
       "numPosts": 1,
       "titleLength": 40,
       "bodyLength": 703,
-      "numImages": 3
+      "numImages": 0
     },
     "USA-NYM-LNN": {
       "numPosts": 2,
       "titleLength": 41,
       "bodyLength": 790.5,
-      "numImages": 1
+      "numImages": 0.5
     },
     "USA-DAL-ROC": {
       "numPosts": 1,
       "titleLength": 13,
       "bodyLength": 808,
-      "numImages": 5
+      "numImages": 0
     },
     "USA-SAC-AUB": {
       "numPosts": 1,
       "titleLength": 35,
       "bodyLength": 431,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-SAC-ORA": {
       "numPosts": 1,
       "titleLength": 63,
       "bodyLength": 2409,
-      "numImages": 9
+      "numImages": 0
     },
     "USA-LAX-LSN": {
       "numPosts": 1,
       "titleLength": 67,
       "bodyLength": 239,
-      "numImages": 1
+      "numImages": 0
     },
     "USA-WAS-ALE": {
       "numPosts": 1,
       "titleLength": 53,
       "bodyLength": 164,
-      "numImages": 7
+      "numImages": 0
     },
     "USA-WAS-SUI": {
       "numPosts": 1,
       "titleLength": 66,
       "bodyLength": 942,
-      "numImages": 7
+      "numImages": 0
     },
     "USA-WAS-ANN": {
       "numPosts": 1,
       "titleLength": 52,
       "bodyLength": 834,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-REN-SPA": {
       "numPosts": 2,
       "titleLength": 14.5,
       "bodyLength": 1009.5,
-      "numImages": 6.5
+      "numImages": 4.5
     },
     "USA-PIT-MNR": {
       "numPosts": 1,
       "titleLength": 30,
       "bodyLength": 362,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-LAX-LAH": {
       "numPosts": 1,
       "titleLength": 18,
       "bodyLength": 1385,
-      "numImages": 4
+      "numImages": 0
     },
     "USA-STL-HOU": {
       "numPosts": 1,
       "titleLength": 40,
       "bodyLength": 1386,
-      "numImages": 11
+      "numImages": 0
     },
     "USA-MAW-BAA": {
       "numPosts": 1,
       "titleLength": 27,
       "bodyLength": 1040,
-      "numImages": 19
+      "numImages": 0
     },
     "USA-MIA-WES": {
       "numPosts": 1,
@@ -2371,19 +2371,19 @@
       "numPosts": 1,
       "titleLength": 34,
       "bodyLength": 432,
-      "numImages": 8
+      "numImages": 0
     },
     "USA-LAX-RIV": {
       "numPosts": 1,
       "titleLength": 62,
       "bodyLength": 1567,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-YOR-YOP": {
       "numPosts": 1,
       "titleLength": 66,
       "bodyLength": 1446,
-      "numImages": 2
+      "numImages": 0
     },
     "USA-LAX-RAC": {
       "numPosts": 1,
@@ -2395,7 +2395,7 @@
       "numPosts": 1,
       "titleLength": 58,
       "bodyLength": 277,
-      "numImages": 6
+      "numImages": 0
     }
   }
 }
