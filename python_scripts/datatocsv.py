@@ -8,9 +8,9 @@ with open('data.csv', 'wb') as csvdata:
 	writer = csv.writer(csvdata, delimiter='\t')
 	for city, vals in data['cityCodes'].iteritems():
 		writer.writerow([city,
-							  vals['numPosts'],
-							  vals['titleLength'],
-							  vals['bodyLength'],
-							  vals['numImages']])
+							  vals['numPosts'] or 0,
+							  vals['titleLength'] or 0,
+							  vals['bodyLength'] or 0,
+							  vals['numImages'] or 0])
 
 
