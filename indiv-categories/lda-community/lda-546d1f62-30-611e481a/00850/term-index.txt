@@ -1,7 +1,0 @@
-looking
-male
-female
-dog
-old
-found
-bulldog
