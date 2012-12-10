@@ -1,8 +1,9 @@
 from json import load, dumps
-import sys,os,re,csv,pickle
+import sys,os,re,csv
+from cPickle import load as loadp
 from pprint import pprint
 
-DIR = 'city_pickles'
+DIR = 'cities'
 NUM_TOPICS = 30 #double check
 
 city_features = {}
@@ -23,7 +24,9 @@ def CreateCatVector(data):
         categories[code]['ave_price']+= price
   for cat in categories:
     item = categories[cat]
-    if item['ave_price'] != 0:
+    priced = item['cat_share'] - item['percent_unpriced']
+    # if item['ave_price'] != 0:
+    if priced != 0:
       item['ave_price'] /= float(item['cat_share'] - item['percent_unpriced'])
     if item['cat_share'] != 0:
       item['percent_unpriced'] /= float(item['cat_share'])
@@ -50,23 +53,25 @@ catNames = [line.strip() for line in open(field+'.txt')]
 for filename in os.listdir(DIR):
   city = filename[0:7]
   with open(DIR + '/' + filename) as source:
-    city_features[city] = CreateCatVector(pickle.load(source))
+    city_features[city] = CreateCatVector(loadp(source))
 
 #append the Topic Modeling features to each city's vector
 for cat in catNames:
   citiesTopicModels = {}
-  source = 'lda-'+cat+'.csv' #TODO
+  source = 'csvs/%s.csv'%cat
   with open(source, 'rb') as postTopics:
     reader = csv.reader(postTopics, delimiter=',')
     for line in reader:
       city = line[0]
       if city not in citiesTopicModels:
-        citiesTopicModels[city] = {'count':0, 'topics': [0]*NUM_TOPICS}
+        citiesTopicModels[city] = {'count':0, 'topics': [0.0]*NUM_TOPICS}
       citiesTopicModels[city]['count'] +=1
-      citiesTopicModels[city]['topics'] = [a+b for a,b in zip(citiesTopicModels[city]['count'],line[1:])]
+      citiesTopicModels[city]['topics'] = [float(a)+float(b) for a,b in zip(citiesTopicModels[city]['topics'],line[1:])]
   for city in citiesTopicModels:
-    citiesTopicModels[city]['topics'] = [x/cityTopicModels[city]['count'] for x in myList]
-    city_featers[city] += citiesTopicModels[city]['topics']
+    citiesTopicModels[city]['topics'] = [x/citiesTopicModels[city]['count'] for x in citiesTopicModels[city]['topics']]
+    if 'topics' not in city_features[city]:
+      city_features[city]['topics'] = []
+    city_features[city]['topics'] += citiesTopicModels[city]['topics']
 
 
 #Write feature vectors to csv file
