@@ -3,21 +3,28 @@ import os
 import csv
 from re import search
 
-path = './cities'
+path = './city_pickles'
 metros = [f for f in os.listdir(path)]
 
-with open('categoryClassName.txt') as classnames:
-   categories = [cat.rstrip() for cat in classnames]
+categories = ['For Sale']
+# with open('categoryClassName.txt') as classnames:
+#    categories = [cat.rstrip() for cat in classnames]
 
 for cat in categories:
    locals()[cat] = {}
 
 for f in metros:
-   with open('cities/%s'%f) as metro:
+   with open('city_pickles/%s'%f) as metro:
       metro = load(metro)
+      i = 0
       for post in metro:
          code = post['location']['metroCode']
          cat = post['categoryClassName']
+         if cat != 'For Sale':
+            break
+         i += 1
+         if i >1000:
+            break
          if code and cat:
             if code not in locals()[cat]:
                locals()[cat][code] = []
@@ -30,8 +37,9 @@ for f in metros:
                print 'Error on:  %s'%str(post['body'])
          else:
             locals()[cat][code].append((str(post['heading']), str(post['body'])))
+
    for cat in categories:
-      outfile = 'categories/%s.csv'%cat
+      outfile = 'reduced-%s.csv'%cat
       with open(outfile, 'a') as out:
          writer = csv.writer(out)
          for code,lst in locals()[cat].iteritems():
