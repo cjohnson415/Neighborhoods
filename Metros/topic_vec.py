@@ -1,6 +1,6 @@
 import csv
 
-categories = ['Jobs', 'Real Estate', 'Services', 'Vehicles']
+categories = ['For Sale','Jobs', 'Real Estate', 'Services', 'Vehicles']
 
 counts = {}
 NUM_TOPICS = 30
@@ -21,7 +21,7 @@ for cat in categories:
          vals = [vals[i]/counts[city] for i in range(len(vals))]
       vec[city] = vals
 
-with open('vec-part.csv', 'wb+') as outfile:
+with open('vec.csv', 'wb+') as outfile:
    writer = csv.writer(outfile)
    vecs = {}
    for cat in categories:
@@ -30,7 +30,7 @@ with open('vec-part.csv', 'wb+') as outfile:
          if city not in vecs:
             vecs[city] = [city]
          vecs[city].extend(vec[city])
-         print "extending vector by %s for city %s and category %s"%(len(vec[city]), city, cat)
+         # print "extending vector by %s for city %s and category %s"%(len(vec[city]), city, cat)
 
    for vals in vecs.values():
       writer.writerow(vals)
