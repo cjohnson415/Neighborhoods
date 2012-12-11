@@ -6,7 +6,7 @@ from re import search
 path = './city_pickles'
 metros = [f for f in os.listdir(path)]
 
-categories = ['For Sale']
+categories = ['For Sale' , 'Jobs', 'Real Estate', 'Services', 'Vehicles']
 # with open('categoryClassName.txt') as classnames:
 #    categories = [cat.rstrip() for cat in classnames]
 
@@ -39,7 +39,7 @@ for f in metros:
             locals()[cat][code].append((str(post['heading']), str(post['body'])))
 
    for cat in categories:
-      outfile = 'reduced-%s.csv'%cat
+      outfile = '%s-3.csv'%cat
       with open(outfile, 'a') as out:
          writer = csv.writer(out)
          for code,lst in locals()[cat].iteritems():
