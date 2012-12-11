@@ -12,7 +12,7 @@ import edu.stanford.nlp.tmt.stage._;
 import edu.stanford.nlp.tmt.model.lda._;
 import edu.stanford.nlp.tmt.model.llda._;
 
-val source = CSVFile("reduced.csv") ~> IDColumn(1);
+val source = CSVFile("forsale.csv") ~> IDColumn(1);
 
 val tokenizer = {
   SimpleEnglishTokenizer() ~>            // tokenize on space and punctuation

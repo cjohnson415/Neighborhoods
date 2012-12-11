@@ -1,2 +1,2 @@
 CVB0LDA v0 [Stanford Topic Modeling Toolbox]
-CSVFile("reduced.csv") ~> IDColumn(1) ~> Columns(2,3) ~> Join( ) ~> TokenizeWith(SimpleEnglishTokenizer.V1() ~> CaseFolder() ~> WordsAndNumbersOnlyFilter() ~> MinimumLengthFilter(5)) ~> TermCounter() ~> TermMinimumDocumentCountFilter(10) ~> TermDynamicStopListFilter(20) ~> DocumentMinimumLengthFilter(5)
+CSVFile("forsale.csv") ~> IDColumn(1) ~> Columns(2,3) ~> Join( ) ~> TokenizeWith(SimpleEnglishTokenizer.V1() ~> CaseFolder() ~> WordsAndNumbersOnlyFilter() ~> MinimumLengthFilter(5)) ~> TermCounter() ~> TermMinimumDocumentCountFilter(10) ~> TermDynamicStopListFilter(20) ~> DocumentMinimumLengthFilter(5)

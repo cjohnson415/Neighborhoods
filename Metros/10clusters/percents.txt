@@ -1,0 +1,2 @@
+percent lows:0.718347107438
+percent high:0.0482644628099

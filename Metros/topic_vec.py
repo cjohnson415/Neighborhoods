@@ -1,6 +1,6 @@
 import csv
 
-categories = ['For Sale', 'Community', 'Jobs', 'Real Estate', 'Services', 'Vehicles']
+categories = ['For Sale', 'Jobs', 'Real Estate', 'Services', 'Vehicles']
 
 counts = {}
 NUM_TOPICS = 30
@@ -21,7 +21,7 @@ for cat in categories:
          vals = [vals[i]/counts[city] for i in range(len(vals))]
       vec[city] = vals
 
-with open('vec-test.csv', 'wb+') as outfile:
+with open('vec.csv', 'wb+') as outfile:
    writer = csv.writer(outfile)
    vecs = {}
    for cat in categories:

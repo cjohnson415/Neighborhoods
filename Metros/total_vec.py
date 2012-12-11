@@ -41,7 +41,7 @@ for filename in os.listdir(DIR):
 
 vecs = {}
 
-with open('vec-test.csv') as vecfile:
+with open('vec.csv') as vecfile:
    reader = csv.reader(vecfile)
    for row in reader:
       vecs[row[0]] = row
@@ -50,7 +50,7 @@ with open('vec-test.csv') as vecfile:
 max_avgs = {}
 for cat in catNames:
    max_avgs[cat] = max([city_features[city][cat]['ave_price'] for city in city_features])
-with open('vec-testall.csv', 'wb') as outfile:
+with open('vec-all.csv', 'wb') as outfile:
    writer = csv.writer(outfile)
    for city,cats in city_features.iteritems():
       vec = vecs[city]
