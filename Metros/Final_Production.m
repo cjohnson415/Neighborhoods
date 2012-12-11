@@ -1,6 +1,6 @@
 %% Import Data
 
-CSV = importdata('compiled_features.csv');
+CSV = importdata('all.csv');
 
 %% Normalize the data
 
@@ -46,51 +46,35 @@ legend('Within', 'Between')
 
 %% Run 19-means and plot with PCA
 
-k=19;
+k=25;
 
-[IDX, C, sumd] = kmeans(NORM_DATA, k);
-
-[COEFF,SCORE] = princomp(NORM_DATA);
-
-scatter3(SCORE(:,1), SCORE(:,2), SCORE(:,3), 19, IDX, 'filled', 'SizeData',10^2);
-%scatter(SCORE(:,1), SCORE(:,2), 19, IDX, 'filled','SizeData',10^2);
-xlabel('First Principal Axis', 'FontSize', 20);
-ylabel('Second Principal Axis', 'FontSize', 20);
-title('K Means Cluster Plot for k = 5', 'FontSize', 20);
-
-
-%% Output the names of the clustered cities (to a text file)
-
-
-for i = 1:k
-    indices = find(IDX == i);
-    x = CSV.textdata(indices)
+for run = 1:100
+    [IDX, C, sumd] = kmeans(NORM_DATA, k);
+    
+    [COEFF,SCORE] = princomp(NORM_DATA);
+    
+    scatter3(SCORE(:,1), SCORE(:,2), SCORE(:,3), 19, IDX, 'filled', 'SizeData',10^2);
+    %scatter(SCORE(:,1), SCORE(:,2), 19, IDX, 'filled','SizeData',10^2);
+    xlabel('First Principal Axis', 'FontSize', 20);
+    ylabel('Second Principal Axis', 'FontSize', 20);
+    title('K Means Cluster Plot for k = 5', 'FontSize', 20);
+    
+    
+    %% Output the names of the clustered cities (to a text file)
+    
+    outfile = fopen(sprintf('25clusters/clusters%d.csv',run), 'w+');
+    
+    for i = 1:k
+        indices = find(IDX == i);
+        x = CSV.textdata(indices);
+        %     fprintf(outfile, 'Cluster %d:\n', i);
+        if (size(indices,1) > 1)
+            for j = 1:(size(indices,1)-1),
+                fprintf(outfile, '%s,', char(x(j)));
+            end
+        end
+        fprintf(outfile, '%s\n', char(x(size(indices,1))));
+    end
+    
+    fclose(outfile);
 end
-
-
-
-
-%%
-
-%% Clustering to one feature at a time
-
-k = 5;
-[IDX1, C, sumd] = kmeans(NORM_DATA(:,1),k);
-
-s = subplot(2,2,1);
-gscatter(zeros(size(NORM_DATA(:,1))), DATA(:,1), IDX1, 'bgrcmyk', 'o',5);
-title('Feature: Number of Posts');
-set(s, 'XTick', []);
-legend('off');
-
-
-%%
-
-[COEFF,SCORE] = princomp(NORM_DATA);
-
-
-
-scatter(SCORE(:,1), SCORE(:,2), 20, IDX);
-xlabel('First Principal Axis', 'FontSize', 20);
-ylabel('Second Principal Axis', 'FontSize', 20);
-title('K Means Cluster Plot for k = 5', 'FontSize', 20);

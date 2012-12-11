@@ -1,6 +1,6 @@
 import csv
 
-categories = ['For Sale','Jobs', 'Real Estate', 'Services', 'Vehicles']
+categories = ['For Sale', 'Jobs', 'Real Estate', 'Services', 'Vehicles']
 
 counts = {}
 NUM_TOPICS = 30

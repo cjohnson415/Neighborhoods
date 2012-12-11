@@ -21,7 +21,7 @@ for f in metros:
          code = post['location']['metroCode']
          cat = post['categoryClassName']
          if cat != 'For Sale':
-            break
+            continue
          i += 1
          if i >1000:
             break
@@ -39,7 +39,7 @@ for f in metros:
             locals()[cat][code].append((str(post['heading']), str(post['body'])))
 
    for cat in categories:
-      outfile = 'reduced-%s.csv'%cat
+      outfile = '%s.csv'%cat
       with open(outfile, 'a') as out:
          writer = csv.writer(out)
          for code,lst in locals()[cat].iteritems():
