@@ -1,0 +1,275 @@
+USA-JCS:
+lows:['USA-JAF', 'USA-MAW', 'USA-POR', 'USA-TLS', 'USA-BOI', 'USA-ABU', 'USA-REN', 'USA-VIR', 'USA-LAX', 'USA-OMA', 'USA-DES', 'USA-LIT', 'USA-RON', 'USA-LEK']
+midl:['USA-ANC', 'USA-RAL']
+midh:[]
+high:['USA-HON', 'USA-IOW', 'USA-LIN']
+USA-SFO:
+lows:['USA-MIW', 'USA-JAF', 'USA-POR', 'USA-TLS', 'USA-DEN', 'USA-PHX', 'USA-CRS', 'USA-COO', 'USA-AUT', 'USA-CIN', 'USA-BOS', 'USA-DAL', 'USA-SEA', 'USA-SAT', 'USA-NAS', 'USA-SAN', 'USA-TPA', 'USA-OKL', 'USA-STL', 'USA-VIR', 'USA-LAX', 'USA-DET', 'USA-OMA', 'USA-CUO', 'USA-CLE', 'USA-ORL', 'USA-LIT', 'USA-RON', 'USA-NEO']
+midl:[]
+midh:['USA-KAN', 'USA-NYM', 'USA-SLT', 'USA-PIT']
+high:['USA-MIN', 'USA-WAS']
+USA-HON:
+lows:['USA-POR', 'USA-BOI', 'USA-ABU', 'USA-REN', 'USA-SAN', 'USA-VIR', 'USA-LAX', 'USA-DES']
+midl:['USA-ANC', 'USA-RAL']
+midh:[]
+high:['USA-JCS', 'USA-IOW', 'USA-LIN']
+USA-LEK:
+lows:['USA-JCS', 'USA-IOW', 'USA-KAN', 'USA-CRS', 'USA-BOI', 'USA-CTN', 'USA-NAS', 'USA-OKL', 'USA-LIN']
+midl:['USA-MIW', 'USA-BIR', 'USA-OMA', 'USA-RON']
+midh:['USA-JAF', 'USA-TLS', 'USA-ABU', 'USA-REN', 'USA-VIR']
+high:['USA-MAW', 'USA-DES', 'USA-LIT']
+USA-MIW:
+lows:['USA-SFO', 'USA-MIN', 'USA-TLS', 'USA-KAN', 'USA-AUT', 'USA-ABU', 'USA-CIN', 'USA-REN', 'USA-SAT', 'USA-TPA', 'USA-STL', 'USA-VIR', 'USA-OMA', 'USA-SLT', 'USA-PIT', 'USA-IDO', 'USA-LIT']
+midl:['USA-JAF', 'USA-MAW', 'USA-CRS', 'USA-CTN', 'USA-NAS', 'USA-OKL', 'USA-DES', 'USA-RON', 'USA-LEK', 'USA-NEO']
+midh:['USA-BIR']
+high:[]
+USA-JAF:
+lows:['USA-JCS', 'USA-SFO', 'USA-MIN', 'USA-IOW', 'USA-CRS', 'USA-NYM', 'USA-PHI', 'USA-CTN', 'USA-NAS', 'USA-SAN', 'USA-LAX', 'USA-LIN', 'USA-PIT', 'USA-RON', 'USA-NEO']
+midl:['USA-MIW', 'USA-TLS', 'USA-KAN', 'USA-ABU', 'USA-BIR', 'USA-REN', 'USA-OKL', 'USA-VIR', 'USA-LIT']
+midh:['USA-MAW', 'USA-OMA', 'USA-DES', 'USA-LEK']
+high:[]
+USA-MAW:
+lows:['USA-JCS', 'USA-IOW', 'USA-KAN', 'USA-CRS', 'USA-BOI', 'USA-CTN', 'USA-NAS', 'USA-OKL', 'USA-LIN']
+midl:['USA-MIW', 'USA-BIR', 'USA-OMA', 'USA-RON']
+midh:['USA-JAF', 'USA-TLS', 'USA-ABU', 'USA-REN', 'USA-VIR']
+high:['USA-DES', 'USA-LIT', 'USA-LEK']
+USA-MIN:
+lows:['USA-MIW', 'USA-JAF', 'USA-POR', 'USA-DEN', 'USA-PHX', 'USA-PHI', 'USA-CIN', 'USA-BOS', 'USA-DAL', 'USA-SEA', 'USA-SAT', 'USA-TPA', 'USA-OKL', 'USA-STL', 'USA-LAX', 'USA-DET', 'USA-OMA', 'USA-CUO', 'USA-CLE', 'USA-ORL', 'USA-IDO', 'USA-NEO']
+midl:['USA-KAN']
+midh:['USA-NYM', 'USA-SLT']
+high:['USA-SFO', 'USA-WAS', 'USA-PIT']
+USA-POR:
+lows:['USA-JCS', 'USA-SFO', 'USA-HON', 'USA-MIN', 'USA-IOW', 'USA-KAN', 'USA-WAS', 'USA-ABU', 'USA-SAT', 'USA-SAN', 'USA-OKL', 'USA-LAX', 'USA-LIN']
+midl:['USA-COO', 'USA-SEA']
+midh:['USA-BOI', 'USA-ANC']
+high:[]
+USA-IOW:
+lows:['USA-JAF', 'USA-MAW', 'USA-POR', 'USA-TLS', 'USA-BOI', 'USA-ABU', 'USA-REN', 'USA-SAN', 'USA-VIR', 'USA-LAX', 'USA-OMA', 'USA-DES', 'USA-LIT', 'USA-RON', 'USA-LEK']
+midl:['USA-ANC', 'USA-RAL']
+midh:[]
+high:['USA-JCS', 'USA-HON', 'USA-LIN']
+USA-NEO:
+lows:['USA-SFO', 'USA-JAF', 'USA-MIN', 'USA-KAN', 'USA-HOU', 'USA-WAS', 'USA-CRS', 'USA-AUT', 'USA-CTN', 'USA-BIR', 'USA-CIN', 'USA-BOS', 'USA-DAL', 'USA-SAT', 'USA-NAS', 'USA-TPA', 'USA-OKL', 'USA-DET', 'USA-PIT', 'USA-IDO', 'USA-RON']
+midl:['USA-MIW', 'USA-NYM', 'USA-PHI', 'USA-ATL', 'USA-SLT']
+midh:[]
+high:[]
+USA-TLS:
+lows:['USA-JCS', 'USA-SFO', 'USA-MIW', 'USA-IOW', 'USA-KAN', 'USA-CRS', 'USA-AUT', 'USA-ANC', 'USA-NAS', 'USA-OKL', 'USA-RAL', 'USA-LAX', 'USA-LIN']
+midl:['USA-JAF', 'USA-BIR']
+midh:['USA-MAW', 'USA-OMA', 'USA-RON', 'USA-LEK']
+high:['USA-ABU', 'USA-REN', 'USA-VIR', 'USA-DES', 'USA-LIT']
+USA-KAN:
+lows:['USA-MIW', 'USA-MAW', 'USA-POR', 'USA-TLS', 'USA-CRS', 'USA-COO', 'USA-NYM', 'USA-PHI', 'USA-AUT', 'USA-ABU', 'USA-BIR', 'USA-CIN', 'USA-SEA', 'USA-SAT', 'USA-NAS', 'USA-SAN', 'USA-TPA', 'USA-STL', 'USA-VIR', 'USA-CUO', 'USA-SLT', 'USA-CLE', 'USA-DES', 'USA-IDO', 'USA-LIT', 'USA-RON', 'USA-LEK', 'USA-NEO']
+midl:['USA-JAF', 'USA-MIN', 'USA-WAS', 'USA-OMA', 'USA-PIT']
+midh:['USA-SFO', 'USA-OKL']
+high:[]
+USA-HOU:
+lows:['USA-PHX', 'USA-WAS', 'USA-NYM', 'USA-AUT', 'USA-CIN', 'USA-BOS', 'USA-TPA', 'USA-LAX', 'USA-DET', 'USA-ATL', 'USA-SLT', 'USA-CHI', 'USA-NEO']
+midl:['USA-SAN']
+midh:[]
+high:['USA-PHI']
+USA-DEN:
+lows:['USA-SFO', 'USA-MIN', 'USA-WAS', 'USA-NYM', 'USA-OKL', 'USA-LAX', 'USA-CUO', 'USA-SLT', 'USA-CLE', 'USA-PIT']
+midl:['USA-PHX', 'USA-COO', 'USA-SEA', 'USA-SAT']
+midh:[]
+high:[]
+USA-PHX:
+lows:['USA-SFO', 'USA-MIN', 'USA-HOU', 'USA-WAS', 'USA-CRS', 'USA-NYM', 'USA-PHI', 'USA-CTN', 'USA-NAS', 'USA-SAN', 'USA-RAL', 'USA-CUO', 'USA-SLT', 'USA-CLE', 'USA-PIT', 'USA-ORL']
+midl:['USA-DEN']
+midh:['USA-AUT']
+high:[]
+USA-WAS:
+lows:['USA-POR', 'USA-HOU', 'USA-DEN', 'USA-PHX', 'USA-COO', 'USA-PHI', 'USA-BOS', 'USA-DAL', 'USA-SEA', 'USA-SAT', 'USA-OKL', 'USA-DET', 'USA-ORL', 'USA-NEO']
+midl:['USA-KAN']
+midh:['USA-NYM']
+high:['USA-SFO', 'USA-MIN', 'USA-SLT', 'USA-PIT']
+USA-CRS:
+lows:['USA-SFO', 'USA-JAF', 'USA-MAW', 'USA-TLS', 'USA-KAN', 'USA-PHX', 'USA-SAN', 'USA-STL', 'USA-VIR', 'USA-LAX', 'USA-OMA', 'USA-PIT', 'USA-LIT', 'USA-LEK', 'USA-NEO']
+midl:['USA-MIW', 'USA-BIR', 'USA-RAL', 'USA-CUO', 'USA-CLE', 'USA-RON']
+midh:['USA-AUT']
+high:['USA-CTN', 'USA-NAS']
+USA-BOI:
+lows:['USA-JCS', 'USA-HON', 'USA-MAW', 'USA-IOW', 'USA-COO', 'USA-BIR', 'USA-RAL', 'USA-LIN', 'USA-DES', 'USA-LIT', 'USA-LEK']
+midl:[]
+midh:['USA-POR', 'USA-ANC']
+high:[]
+USA-COO:
+lows:['USA-SFO', 'USA-KAN', 'USA-WAS', 'USA-BOI', 'USA-ANC', 'USA-LAX', 'USA-SLT']
+midl:['USA-POR', 'USA-DEN', 'USA-OKL']
+midh:['USA-SAT']
+high:['USA-SEA']
+USA-NYM:
+lows:['USA-JAF', 'USA-KAN', 'USA-HOU', 'USA-DEN', 'USA-PHX', 'USA-PHI', 'USA-BOS', 'USA-DAL', 'USA-DET', 'USA-ORL']
+midl:['USA-NEO']
+midh:['USA-SFO', 'USA-MIN', 'USA-WAS', 'USA-PIT']
+high:['USA-SLT']
+USA-PHI:
+lows:['USA-JAF', 'USA-MIN', 'USA-KAN', 'USA-PHX', 'USA-WAS', 'USA-NYM', 'USA-AUT', 'USA-CIN', 'USA-BOS', 'USA-SAN', 'USA-TPA', 'USA-DET', 'USA-ATL', 'USA-SLT', 'USA-PIT']
+midl:['USA-NEO']
+midh:[]
+high:['USA-HOU']
+USA-AUT:
+lows:['USA-SFO', 'USA-MIW', 'USA-TLS', 'USA-KAN', 'USA-HOU', 'USA-PHI', 'USA-BIR', 'USA-SAN', 'USA-STL', 'USA-VIR', 'USA-LAX', 'USA-OMA', 'USA-CUO', 'USA-CLE', 'USA-ORL', 'USA-LIT', 'USA-RON', 'USA-NEO']
+midl:['USA-RAL']
+midh:['USA-PHX', 'USA-CRS', 'USA-CTN', 'USA-NAS']
+high:[]
+USA-ANC:
+lows:['USA-TLS', 'USA-COO', 'USA-ABU', 'USA-REN', 'USA-RAL', 'USA-VIR', 'USA-OMA', 'USA-LIN', 'USA-LIT']
+midl:['USA-JCS', 'USA-HON', 'USA-IOW']
+midh:['USA-POR', 'USA-BOI']
+high:[]
+USA-ABU:
+lows:['USA-JCS', 'USA-HON', 'USA-MIW', 'USA-POR', 'USA-IOW', 'USA-KAN', 'USA-ANC', 'USA-BIR', 'USA-SAN', 'USA-OKL', 'USA-RAL', 'USA-LAX', 'USA-LIN']
+midl:['USA-JAF', 'USA-RON']
+midh:['USA-MAW', 'USA-OMA', 'USA-DES', 'USA-LEK']
+high:['USA-TLS', 'USA-REN', 'USA-VIR', 'USA-LIT']
+USA-CTN:
+lows:['USA-JAF', 'USA-MAW', 'USA-PHX', 'USA-CIN', 'USA-SAN', 'USA-TPA', 'USA-STL', 'USA-LAX', 'USA-PIT', 'USA-IDO', 'USA-LIT', 'USA-LEK', 'USA-NEO']
+midl:['USA-MIW', 'USA-BIR', 'USA-RAL', 'USA-CUO', 'USA-CLE', 'USA-RON']
+midh:['USA-AUT']
+high:['USA-CRS', 'USA-NAS']
+USA-BIR:
+lows:['USA-KAN', 'USA-BOI', 'USA-AUT', 'USA-ABU', 'USA-CIN', 'USA-REN', 'USA-TPA', 'USA-OKL', 'USA-VIR', 'USA-OMA', 'USA-PIT', 'USA-IDO', 'USA-NEO']
+midl:['USA-JAF', 'USA-MAW', 'USA-TLS', 'USA-CRS', 'USA-CTN', 'USA-NAS', 'USA-DES', 'USA-LIT', 'USA-LEK']
+midh:['USA-MIW', 'USA-RON']
+high:[]
+USA-CIN:
+lows:['USA-SFO', 'USA-MIW', 'USA-MIN', 'USA-KAN', 'USA-HOU', 'USA-PHI', 'USA-CTN', 'USA-BIR', 'USA-OKL', 'USA-RAL', 'USA-DET', 'USA-PIT', 'USA-NEO']
+midl:['USA-SAT', 'USA-CUO', 'USA-CLE']
+midh:[]
+high:['USA-TPA', 'USA-STL', 'USA-IDO']
+USA-BOS:
+lows:['USA-SFO', 'USA-MIN', 'USA-HOU', 'USA-WAS', 'USA-NYM', 'USA-PHI', 'USA-OKL', 'USA-SLT', 'USA-PIT', 'USA-CHI', 'USA-NEO']
+midl:[]
+midh:[]
+high:['USA-DET']
+USA-DAL:
+lows:['USA-SFO', 'USA-MIN', 'USA-WAS', 'USA-NYM', 'USA-SLT', 'USA-PIT', 'USA-CHI', 'USA-NEO']
+midl:[]
+midh:[]
+high:[]
+USA-REN:
+lows:['USA-JCS', 'USA-HON', 'USA-MIW', 'USA-IOW', 'USA-ANC', 'USA-BIR', 'USA-OKL', 'USA-RAL', 'USA-LAX', 'USA-LIN']
+midl:['USA-JAF', 'USA-RON']
+midh:['USA-MAW', 'USA-OMA', 'USA-DES', 'USA-LEK']
+high:['USA-TLS', 'USA-ABU', 'USA-VIR', 'USA-LIT']
+USA-SEA:
+lows:['USA-SFO', 'USA-MIN', 'USA-KAN', 'USA-WAS', 'USA-SAN', 'USA-LAX', 'USA-SLT']
+midl:['USA-POR', 'USA-DEN', 'USA-OKL']
+midh:['USA-SAT']
+high:['USA-COO']
+USA-SAT:
+lows:['USA-SFO', 'USA-MIW', 'USA-MIN', 'USA-POR', 'USA-KAN', 'USA-WAS', 'USA-LAX', 'USA-CUO', 'USA-SLT', 'USA-CLE', 'USA-NEO']
+midl:['USA-DEN', 'USA-CIN', 'USA-TPA', 'USA-OKL', 'USA-STL', 'USA-IDO']
+midh:['USA-COO', 'USA-SEA']
+high:[]
+USA-SAN:
+lows:['USA-SFO', 'USA-HON', 'USA-JAF', 'USA-POR', 'USA-IOW', 'USA-KAN', 'USA-PHX', 'USA-CRS', 'USA-PHI', 'USA-AUT', 'USA-ABU', 'USA-CTN', 'USA-SEA', 'USA-NAS', 'USA-OKL', 'USA-STL', 'USA-OMA', 'USA-RON', 'USA-CHI']
+midl:['USA-HOU', 'USA-RAL', 'USA-CUO', 'USA-CLE']
+midh:['USA-LAX']
+high:[]
+USA-TPA:
+lows:['USA-SFO', 'USA-MIW', 'USA-MIN', 'USA-KAN', 'USA-HOU', 'USA-PHI', 'USA-CTN', 'USA-BIR', 'USA-OKL', 'USA-RAL', 'USA-DET', 'USA-PIT', 'USA-NEO']
+midl:['USA-SAT', 'USA-CUO', 'USA-CLE']
+midh:[]
+high:['USA-CIN', 'USA-STL', 'USA-IDO']
+USA-OKL:
+lows:['USA-SFO', 'USA-MAW', 'USA-MIN', 'USA-POR', 'USA-TLS', 'USA-DEN', 'USA-WAS', 'USA-ABU', 'USA-BIR', 'USA-CIN', 'USA-BOS', 'USA-REN', 'USA-NAS', 'USA-SAN', 'USA-TPA', 'USA-VIR', 'USA-LAX', 'USA-SLT', 'USA-PIT', 'USA-DES', 'USA-IDO', 'USA-LIT', 'USA-RON', 'USA-LEK', 'USA-NEO']
+midl:['USA-MIW', 'USA-JAF', 'USA-COO', 'USA-SEA', 'USA-SAT', 'USA-OMA']
+midh:['USA-KAN']
+high:[]
+USA-RAL:
+lows:['USA-TLS', 'USA-PHX', 'USA-BOI', 'USA-ANC', 'USA-ABU', 'USA-CIN', 'USA-REN', 'USA-TPA', 'USA-STL', 'USA-VIR', 'USA-OMA', 'USA-DES', 'USA-IDO', 'USA-RON']
+midl:['USA-JCS', 'USA-HON', 'USA-IOW', 'USA-CRS', 'USA-AUT', 'USA-CTN', 'USA-NAS', 'USA-SAN', 'USA-LAX', 'USA-LIN']
+midh:['USA-CUO', 'USA-CLE']
+high:[]
+USA-DET:
+lows:['USA-SFO', 'USA-MIN', 'USA-HOU', 'USA-WAS', 'USA-NYM', 'USA-PHI', 'USA-CIN', 'USA-TPA', 'USA-SLT', 'USA-PIT', 'USA-NEO']
+midl:[]
+midh:[]
+high:['USA-BOS']
+USA-VIR:
+lows:['USA-JCS', 'USA-SFO', 'USA-HON', 'USA-MIW', 'USA-IOW', 'USA-KAN', 'USA-CRS', 'USA-AUT', 'USA-ANC', 'USA-BIR', 'USA-NAS', 'USA-OKL', 'USA-RAL', 'USA-LAX', 'USA-LIN']
+midl:['USA-JAF', 'USA-RON']
+midh:['USA-MAW', 'USA-OMA', 'USA-DES', 'USA-LEK']
+high:['USA-TLS', 'USA-ABU', 'USA-REN', 'USA-LIT']
+USA-LAX:
+lows:['USA-JCS', 'USA-SFO', 'USA-HON', 'USA-JAF', 'USA-MIN', 'USA-POR', 'USA-IOW', 'USA-TLS', 'USA-HOU', 'USA-DEN', 'USA-CRS', 'USA-COO', 'USA-AUT', 'USA-ABU', 'USA-CTN', 'USA-REN', 'USA-SEA', 'USA-SAT', 'USA-NAS', 'USA-OKL', 'USA-STL', 'USA-VIR', 'USA-OMA', 'USA-LIN', 'USA-DES', 'USA-LIT', 'USA-RON']
+midl:['USA-RAL', 'USA-CUO', 'USA-CLE']
+midh:['USA-SAN']
+high:[]
+USA-OMA:
+lows:['USA-JCS', 'USA-SFO', 'USA-MIW', 'USA-MIN', 'USA-IOW', 'USA-CRS', 'USA-AUT', 'USA-ANC', 'USA-BIR', 'USA-NAS', 'USA-SAN', 'USA-RAL', 'USA-STL', 'USA-LAX', 'USA-CUO', 'USA-CLE', 'USA-LIN', 'USA-PIT']
+midl:['USA-MAW', 'USA-KAN', 'USA-OKL', 'USA-DES', 'USA-RON', 'USA-LEK']
+midh:['USA-JAF', 'USA-TLS', 'USA-ABU', 'USA-REN', 'USA-VIR', 'USA-LIT']
+high:[]
+USA-CUO:
+lows:['USA-SFO', 'USA-MIN', 'USA-KAN', 'USA-DEN', 'USA-PHX', 'USA-AUT', 'USA-SAT', 'USA-OMA', 'USA-PIT', 'USA-RON']
+midl:['USA-CRS', 'USA-CTN', 'USA-CIN', 'USA-NAS', 'USA-SAN', 'USA-TPA', 'USA-LAX', 'USA-IDO']
+midh:['USA-RAL', 'USA-STL']
+high:['USA-CLE']
+USA-ATL:
+lows:['USA-HOU', 'USA-PHI']
+midl:['USA-NEO']
+midh:[]
+high:[]
+USA-STL:
+lows:['USA-SFO', 'USA-MIW', 'USA-MIN', 'USA-KAN', 'USA-CRS', 'USA-AUT', 'USA-CTN', 'USA-NAS', 'USA-SAN', 'USA-RAL', 'USA-LAX', 'USA-OMA', 'USA-PIT', 'USA-RON']
+midl:['USA-SAT']
+midh:['USA-CUO', 'USA-CLE']
+high:['USA-CIN', 'USA-TPA', 'USA-IDO']
+USA-CLE:
+lows:['USA-SFO', 'USA-MIN', 'USA-KAN', 'USA-DEN', 'USA-PHX', 'USA-AUT', 'USA-SAT', 'USA-OMA', 'USA-PIT', 'USA-RON']
+midl:['USA-CRS', 'USA-CTN', 'USA-CIN', 'USA-NAS', 'USA-SAN', 'USA-TPA', 'USA-LAX', 'USA-IDO']
+midh:['USA-RAL', 'USA-STL']
+high:['USA-CUO']
+USA-LIN:
+lows:['USA-JAF', 'USA-MAW', 'USA-POR', 'USA-TLS', 'USA-BOI', 'USA-ANC', 'USA-ABU', 'USA-REN', 'USA-VIR', 'USA-LAX', 'USA-OMA', 'USA-DES', 'USA-LIT', 'USA-RON', 'USA-LEK']
+midl:['USA-RAL']
+midh:[]
+high:['USA-JCS', 'USA-HON', 'USA-IOW']
+USA-PIT:
+lows:['USA-MIW', 'USA-JAF', 'USA-DEN', 'USA-PHX', 'USA-CRS', 'USA-PHI', 'USA-CTN', 'USA-BIR', 'USA-CIN', 'USA-BOS', 'USA-DAL', 'USA-NAS', 'USA-TPA', 'USA-OKL', 'USA-STL', 'USA-DET', 'USA-OMA', 'USA-CUO', 'USA-CLE', 'USA-ORL', 'USA-RON', 'USA-NEO']
+midl:['USA-KAN']
+midh:['USA-SFO', 'USA-NYM', 'USA-SLT']
+high:['USA-MIN', 'USA-WAS']
+USA-DES:
+lows:['USA-JCS', 'USA-HON', 'USA-IOW', 'USA-KAN', 'USA-BOI', 'USA-OKL', 'USA-RAL', 'USA-LAX', 'USA-LIN']
+midl:['USA-MIW', 'USA-BIR', 'USA-OMA', 'USA-RON']
+midh:['USA-JAF', 'USA-ABU', 'USA-REN', 'USA-VIR']
+high:['USA-MAW', 'USA-TLS', 'USA-LIT', 'USA-LEK']
+USA-ORL:
+lows:['USA-SFO', 'USA-MIN', 'USA-PHX', 'USA-WAS', 'USA-NYM', 'USA-AUT', 'USA-SLT', 'USA-PIT']
+midl:[]
+midh:[]
+high:[]
+USA-IDO:
+lows:['USA-MIW', 'USA-MIN', 'USA-KAN', 'USA-CTN', 'USA-BIR', 'USA-OKL', 'USA-RAL', 'USA-NEO']
+midl:['USA-SAT', 'USA-CUO', 'USA-CLE']
+midh:[]
+high:['USA-CIN', 'USA-TPA', 'USA-STL']
+USA-LIT:
+lows:['USA-JCS', 'USA-SFO', 'USA-MIW', 'USA-IOW', 'USA-KAN', 'USA-CRS', 'USA-BOI', 'USA-AUT', 'USA-ANC', 'USA-CTN', 'USA-NAS', 'USA-OKL', 'USA-LAX', 'USA-LIN']
+midl:['USA-JAF', 'USA-BIR']
+midh:['USA-OMA', 'USA-RON']
+high:['USA-MAW', 'USA-TLS', 'USA-ABU', 'USA-REN', 'USA-VIR', 'USA-DES', 'USA-LEK']
+USA-RON:
+lows:['USA-JCS', 'USA-SFO', 'USA-JAF', 'USA-IOW', 'USA-KAN', 'USA-AUT', 'USA-SAN', 'USA-OKL', 'USA-RAL', 'USA-STL', 'USA-LAX', 'USA-CUO', 'USA-CLE', 'USA-LIN', 'USA-PIT', 'USA-NEO']
+midl:['USA-MIW', 'USA-MAW', 'USA-CRS', 'USA-ABU', 'USA-CTN', 'USA-REN', 'USA-NAS', 'USA-VIR', 'USA-OMA', 'USA-DES', 'USA-LEK']
+midh:['USA-TLS', 'USA-BIR', 'USA-LIT']
+high:[]
+USA-CHI:
+lows:['USA-HOU', 'USA-BOS', 'USA-DAL', 'USA-SAN']
+midl:[]
+midh:[]
+high:[]
+USA-SLT:
+lows:['USA-MIW', 'USA-KAN', 'USA-HOU', 'USA-DEN', 'USA-PHX', 'USA-COO', 'USA-PHI', 'USA-BOS', 'USA-DAL', 'USA-SEA', 'USA-SAT', 'USA-OKL', 'USA-DET', 'USA-ORL']
+midl:['USA-NEO']
+midh:['USA-SFO', 'USA-MIN', 'USA-PIT']
+high:['USA-WAS', 'USA-NYM']
+USA-NAS:
+lows:['USA-SFO', 'USA-JAF', 'USA-MAW', 'USA-TLS', 'USA-KAN', 'USA-PHX', 'USA-SAN', 'USA-OKL', 'USA-STL', 'USA-VIR', 'USA-LAX', 'USA-OMA', 'USA-PIT', 'USA-LIT', 'USA-LEK', 'USA-NEO']
+midl:['USA-MIW', 'USA-BIR', 'USA-RAL', 'USA-CUO', 'USA-CLE', 'USA-RON']
+midh:['USA-AUT']
+high:['USA-CRS', 'USA-CTN']
